@@ -1,0 +1,23 @@
+Test Case 1
+Input: 95
+Output: A
+
+Test Case 2
+Input: 85
+Output: B
+
+Test Case 3
+Input: 72
+Output: C
+
+Test Case 4
+Input: 65
+Output: D
+
+Test Case 5
+Input: 40
+Output: F
+
+Test Case 6
+Input: 120
+Output: Invalid Input
